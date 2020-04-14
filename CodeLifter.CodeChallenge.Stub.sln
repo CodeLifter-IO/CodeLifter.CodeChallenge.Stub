@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLifter.CodeChallenge.Stub", "CodeLifter.CodeChallenge.Stub\CodeLifter.CodeChallenge.Stub.csproj", "{27A9C122-4254-494B-B2B9-DDA43A83A081}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{83533A41-CC4B-4011-80DE-8B1E1E2F07DB}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		readme.md = readme.md
+		LICENSE = LICENSE
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeLifter.CodeChallenge.Stub.Test", "CodeLifter.CodeChallenge.Stub.Test\CodeLifter.CodeChallenge.Stub.Test.csproj", "{E5939E65-DEFD-4EAB-A152-7566610A4E62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A9C122-4254-494B-B2B9-DDA43A83A081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A9C122-4254-494B-B2B9-DDA43A83A081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A9C122-4254-494B-B2B9-DDA43A83A081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A9C122-4254-494B-B2B9-DDA43A83A081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5939E65-DEFD-4EAB-A152-7566610A4E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5939E65-DEFD-4EAB-A152-7566610A4E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5939E65-DEFD-4EAB-A152-7566610A4E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5939E65-DEFD-4EAB-A152-7566610A4E62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
